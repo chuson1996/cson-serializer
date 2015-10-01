@@ -1,0 +1,22 @@
+{
+  "name": "cson-serializer",
+  "version": "1.0.0",
+  "description": "serializer javascript library for HTML nodes and ranges",
+  "main": "lib/serializer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chuson1996/cson-serializer.git"
+  },
+  "keywords": [
+    "serializer"
+  ],
+  "author": "Chu Hoang Son",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuson1996/cson-serializer/issues"
+  },
+  "homepage": "https://github.com/chuson1996/cson-serializer"
+}
