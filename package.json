@@ -1,6 +1,6 @@
 {
   "name": "cson-serializer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "serializer javascript library for HTML nodes and ranges",
   "main": "lib/serializer.js",
   "scripts": {
