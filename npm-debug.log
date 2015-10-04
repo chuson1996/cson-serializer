@@ -8,8 +8,8 @@
 4 verbose node symlink C:\Program Files (x86)\nodejs\\node.exe
 5 info git [ 'status', '--porcelain' ]
 6 verbose stack Error: Git working directory not clean.
-6 verbose stack A  .gitignore
-6 verbose stack M lib/cson-serializer.js
+6 verbose stack M .idea/workspace.xml
+6 verbose stack M npm-debug.log
 6 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\lib\version.js:138:37
 6 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\lib\utils\git.js:26:8
 6 verbose stack     at ChildProcess.exithandler (child_process.js:742:7)
@@ -24,8 +24,8 @@
 10 error node v0.12.2
 11 error npm  v2.7.4
 12 error Git working directory not clean.
-12 error A  .gitignore
-12 error M lib/cson-serializer.js
+12 error M .idea/workspace.xml
+12 error M npm-debug.log
 13 error If you need help, you may report this error at:
 13 error     <https://github.com/npm/npm/issues>
 14 verbose exit [ 1, true ]
